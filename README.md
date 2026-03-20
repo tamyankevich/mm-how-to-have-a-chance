@@ -9,7 +9,6 @@ The general flow of a college (or any) basketball game concerns itself with trad
 Still, not all hope is lost. We are here to think through a strategy that systematically improves your odds of winning through variables you *do* control.
 
 <aside>
-<img src="/icons/info-alternate_gray.svg" alt="/icons/info-alternate_gray.svg" width="40px" />
 
 **Hypothesis 1:** even among top seeded teams, there is a greater variance of talent density beyond the starting 5 roster spots.
 
@@ -24,14 +23,12 @@ No matter what, each player on a collegiate team is allotted 5 personal fouls be
 If hypothesis 1 is true, then the underdog makes up ground every time a foul is called on their opponent’s top-tier players. The advantage compounds non-linearly every time a top 5 player sits with foul trouble, or is disqualified from the contest entirely.  
 
 <aside>
-<img src="/icons/info-alternate_gray.svg" alt="/icons/info-alternate_gray.svg" width="40px" />
 
 An underdog’s starting 5 may not stack up against their opponents starting 5, but what about the positions at a depth ≥ 5? 
 
 </aside>
 
 <aside>
-<img src="/icons/info-alternate_gray.svg" alt="/icons/info-alternate_gray.svg" width="40px" />
 
 The best defense is gluing the opponents best players to the bench. 
 
@@ -69,7 +66,6 @@ Our goal is to create dissonance. Once 2-3 of the starting 5 players are facing 
 Once it does, Goliath will be understandably shaken. Expect overall offensive efficiency and efficacy to drop; turnovers, bad shots, and other bugs that will arise organically. In such a high stakes environment like MM, this can have compounding, negative psychological effects. At this stage, no matter what the scoreboard says, we acquire a new weapon: **shit-talking**. 
 
 <aside>
-<img src="/icons/info-alternate_gray.svg" alt="/icons/info-alternate_gray.svg" width="40px" />
 
 **“That's a sign of a good man if he can talk sh*t when it's even score, or talk sh*t when you behind score. When you're ahead it's easy to talk”**
 
